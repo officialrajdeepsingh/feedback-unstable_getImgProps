@@ -1,6 +1,7 @@
 import Link from "next/link";
 import React from "react";
 import { Logo } from "./logo";
+
 export const Header = () => {
   return (
     <header className="container mx-auto flex flex-wrap py-5 flex-col md:flex-row items-center">
